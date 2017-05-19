@@ -2,12 +2,14 @@
   "name": "node",
   "version": "1.0.0",
   "description": "",
-  "main": "",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "lodash": "4.17.2"
-  }
+  "main": "ex01.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Marques",
+  "license": "ISC"
 }
