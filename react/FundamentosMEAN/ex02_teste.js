@@ -1,3 +1,3 @@
 const utils = require('./ex02_utils')
 
-console.log(utils.upper('Matheus Marques'))
+console.log(utils.upper('Matheus Marques 2'))
